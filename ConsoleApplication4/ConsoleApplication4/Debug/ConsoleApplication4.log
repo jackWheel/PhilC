@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+Z:\Coding\CA4\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ConsoleApplication4.vcxproj -> Z:\Coding\CA4\ConsoleApplication4\Debug\ConsoleApplication4.exe
