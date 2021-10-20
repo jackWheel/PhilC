@@ -1,0 +1,4 @@
+﻿  Arrays.cpp
+Z:\Coding\Arrays\Arrays\Arrays\Arrays.cpp(22,9): warning C4101: ar3: неиспользованная локальная переменная
+Z:\Coding\Arrays\Arrays\Arrays\Arrays.cpp(19,9): warning C4101: ar2: неиспользованная локальная переменная
+  Arrays.vcxproj -> Z:\Coding\Arrays\Arrays\Debug\Arrays.exe
