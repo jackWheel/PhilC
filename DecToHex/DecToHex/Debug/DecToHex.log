@@ -1,0 +1,4 @@
+﻿  DecToHex.cpp
+Z:\Coding\DecToHex\DecToHex\DecToHex\DecToHex.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+Z:\Coding\DecToHex\DecToHex\DecToHex\DecToHex.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  DecToHex.vcxproj -> Z:\Coding\DecToHex\DecToHex\Debug\DecToHex.exe
